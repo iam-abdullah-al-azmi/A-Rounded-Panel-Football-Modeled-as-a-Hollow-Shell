@@ -1,13 +1,12 @@
-# Concept Design Prototype of a Football
+# SeamSphere: A Rounded-Panel Football Modeled as a Hollow Shell
 
 ## Summary
 
----
+I was inspired to design this football since I love playing football. The ball is the heart of the game: every pass, dribble, and shot depends on how it is shaped and how it responds to a player's touch. Spending so much time playing with it made me curious about how a ball that looks so simple is actually put together, and I wanted to recreate it myself.
 
-## Design Motivation
+The ball has a hollow, spherical shell whose surface is divided into smooth, rounded panels. Dark seams run between the panels and meet at small junctions, which gives the ball its familiar patchwork look. The section view shows that the model is a thin shell rather than a solid sphere, as in a real football where the outer casing surrounds an air-filled interior. The main challenge was to arrange the panels so that they cover the sphere evenly, with seams of consistent width, and no gaps or overlaps between neighboring panels.
 
-| Name | Image |
-| :--: | :---: |
+The football was developed as a computational model in SolidWorks. The views below show the panel pattern from every side, along with the section view of the shell. This prototype is a base concept design that can be developed further into a ball that follows real football specifications.
 
 ---
 
@@ -26,11 +25,39 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  |       Name       |
+| :-: | :--------------: |
+| 01  |      Plane       |
+| 02  |       Axis       |
+| 03  |       Loft       |
+| 04  | Surface Revolve  |
+| 05  |   Surface Cut    |
+| 06  | Surface Extrude  |
+| 07  |      Fillet      |
+| 08  |    Split Line    |
+| 09  |     Thicken      |
+| 10  |     Combine      |
+| 11  | Circular Pattern |
+| 12  |  Body Move/Copy  |
+
+---
+
+## Image of the Tool Used
+
+| No  |                              Image                               |
+| :-: | :--------------------------------------------------------------: |
+| 01  | ![Image of the Tool Used One](images/football_tool_used_one.png) |
+| 02  | ![Image of the Tool Used Two](images/football_tool_used_two.png) |
 
 ---
 
