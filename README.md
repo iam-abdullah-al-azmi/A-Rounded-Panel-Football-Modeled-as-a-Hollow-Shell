@@ -1,4 +1,4 @@
-# SeamSphere: A Rounded-Panel Football Modeled as a Hollow Shell
+# A Rounded-Panel Football Modeled as a Hollow Shell
 
 ## Summary
 
