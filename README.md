@@ -89,3 +89,9 @@ The model captures only the panel layout and shape of the ball. A real football 
 [^1]: [Which Decathlon soccer ball to choose for training, matches and casual play](https://sports.lazada.com.ph/which-decathlon-soccer-ball-to-choose-for-training-matches-and-casual-play-ph/)
 
 [^2]: [Sports training device and methods of use (US Patent 11185750)](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11185750)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
