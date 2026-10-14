@@ -33,7 +33,7 @@ The football was developed as a computational model in SolidWorks. The views bel
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |       Name       |
 | :-: | :--------------: |
@@ -52,12 +52,12 @@ The football was developed as a computational model in SolidWorks. The views bel
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
 | No  |                              Image                               |
 | :-: | :--------------------------------------------------------------: |
-| 01  | ![Image of the Tool Used One](images/football_tool_used_one.png) |
-| 02  | ![Image of the Tool Used Two](images/football_tool_used_two.png) |
+| 01  | ![Feature Tree Image One](images/football_feature_tree_one.png) |
+| 02  | ![Feature Tree Image Two](images/football_feature_tree_two.png) |
 
 ---
 
