@@ -52,7 +52,7 @@ The football was developed as a computational model in SolidWorks. The views bel
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 | No  |                              Image                               |
 | :-: | :--------------------------------------------------------------: |
